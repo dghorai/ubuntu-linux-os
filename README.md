@@ -15,5 +15,6 @@ Learning and sharing practical experience of Ubuntu Desktop
 
 ### Start Spyder
 - Open Terminal
+- source ./venv/bin/activate
 - export QT_QPA_PLATFORM=xcb (this setting needs to do if spyder application not open)
 - spyder (type this command to start spyder which is installed in venv)
