@@ -1,0 +1,9 @@
+Miniconda installation process:
+1) https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
+2) https://www.hostinger.com/tutorials/how-to-install-anaconda-on-ubuntu/
+
+minimize-apps-on-click: 
+1) https://www.linuxuprising.com/2018/04/how-to-enable-minimize-on-click-for.html
+
+activate/deactivate conda virtual environment: 
+1) https://stackoverflow.com/questions/55171696/how-to-remove-base-from-terminal-prompt-after-updating-conda
